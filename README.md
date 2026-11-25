@@ -66,7 +66,7 @@
 
 Agent Reliability provides testing, benchmarking, and auditing tools for autonomous AI agents. It offers a public knowledge corpus, open data, and APIs for accessing evidence, metrics, and evaluation results, supporting developers to improve agent reliability and transparency.
 
-**Areas:** AI · Agents · Reliability · Benchmarking · Testing
+**Areas:** Artificial Intelligence · Agents · Reliability · Benchmarking · Testing
 
 ## Agent Reliability on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentreliability Dev Agentic Access](https://apis.io/agentic-access/agentreliability-dev/agentreliability-dev-agentic-access/)
+- [Agent Reliability Agentic Access](https://apis.io/agentic-access/agentreliability-dev/agentreliability-dev-agentic-access/)
 
 #### Governance rules (1)
 
@@ -96,7 +96,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentreliability Dev Domain Security](https://apis.io/security/agentreliability-dev/agentreliability-dev-domain-security/)
+- [Agent Reliability Domain Security](https://apis.io/security/agentreliability-dev/agentreliability-dev-domain-security/)
 
 ## Where to find this API
 
@@ -109,23 +109,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 23.0** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 17.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
+| Discoverability | 69.6 |
 | Contract quality | 0.0 |
-| Contract governance | 79.1 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 13.6 |
-| Access clarity | 21.1 |
+| Developer ergonomics | 8.9 |
+| Access clarity | 31.9 |
 
-**Agent readiness 12.8** — agent-aware
+**Agent readiness 5.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
@@ -134,7 +134,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -145,8 +145,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentreliability-dev/](https://apis.io/providers/agentreliability-dev/).
 
